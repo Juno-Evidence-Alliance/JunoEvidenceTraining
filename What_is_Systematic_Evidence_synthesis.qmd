@@ -237,7 +237,7 @@ p
 
 <!-- -->
 
--    Identifies **knowledge clusters and gaps**.
+-   Identifies **knowledge clusters and gaps**.
 
 -   Example: A systematic map might chart all research on **school feeding interventions in Sub-Saharan Africa**, categorised by outcome (e.g., attendance, nutrition, learning).
 
