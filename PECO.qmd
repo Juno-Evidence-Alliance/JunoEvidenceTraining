@@ -1,0 +1,87 @@
+---
+title: "Question formulation"
+author: Matthew Grainger
+email: matthew.grainger@nina.no
+format:
+  revealjs:
+    slide-number: true
+    show-slide-number: all
+theme: solarized
+editor: visual
+---
+
+## PICO
+
+[P]{style="color:red;"}[I]{style="color:green;"}[C]{style="color:blue;"}[O]{style="color:purple;"} [Population]{style="color:red;"} [Intervention]{style="color:green;"} [Comparator]{style="color:blue;"} [Outcome]{style="color:purple;"}
+
+Example: What is the effect of [daily school meals]{style="color:green;"} on [primary school children]{style="color:red;"} compared to [no meal provision]{style="color:blue;"} in improving [school attendance]{style="color:purple;"}?
+
+## PECO
+
+PECO – Exposure (non-randomised) Questions
+
+[P]{style="color:red;"}[E]{style="color:green;"}[C]{style="color:blue;"}[O]{style="color:purple;"} [Population]{style="color:red;"} [Exposure]{style="color:green;"} [Comparator]{style="color:blue;"} [Outcome]{style="color:purple;"}
+
+Example: What is the effect of [living in food-insecure households]{style="color:green;"} on [children under 5]{style="color:red;"} compared to [food-secure households]{style="color:blue;"} in terms of [nutritional status]{style="color:purple;"}?
+
+## PO
+
+PO – Prevalence/Descriptive Questions
+
+[P]{style="color:red;"}[O]{style="color:purple;"} [Population]{style="color:red;"} [Outcome]{style="color:purple;"}
+
+Example: What is the [prevalence of anemia]{style="color:purple;"} in [school-aged children in rural Kenya]{style="color:red;"}?
+
+## PIT
+
+PIT – Diagnostic Accuracy
+
+[P]{style="color:red;"}[I]{style="color:green;"}[T]{style="color:blue;"} [Population]{style="color:red;"} [Index test]{style="color:green;"} [Target condition]{style="color:blue;"}
+
+Example: What is the accuracy of [household food insecurity surveys]{style="color:green;"} in detecting [moderate or severe food insecurity]{style="color:blue;"} among [adolescent girls in low-income urban areas]{style="color:red;"}?
+
+## SPICE
+
+SPICE – for service delivery and policy evaluations
+
+[S]{style="color:red;"}[P]{style="color:green;"}[I]{style="color:blue;"}[C]{style="color:purple;"}[E]{style="color:orange;"} [Setting]{style="color:red;"} [Population]{style="color:green;"} [Intervention]{style="color:blue;"} [Comparison]{style="color:purple;"} [Evaluation]{style="color:orange;"}
+
+Example: In [public schools in Malawi]{style="color:red;"}, how does [providing breakfast and lunch]{style="color:blue;"} to [primary school students]{style="color:green;"} compare to [lunch only]{style="color:purple;"} in terms of [learning outcomes and enrollment]{style="\"color:orange;"}?
+
+## Your Turn 
+
+Try framing these using PICO/PECO/SPICE (intervention, exposure, or service delivery):
+
+Does the frequency of school meals influence academic performance among students in rural Ethiopia?
+
+How does household income level affect children's access to school feeding programs in urban India?
+
+What is the prevalence of underweight children in regions with and without school feeding programs?
+
+In low-income countries, what are the effects of take-home rations compared to in-school feeding on girls’ school attendance?
+
+## Why do we do this?
+
+It aids in structuring the search (we will talk more about this tomorrow)
+
+From PICO to Search Strategy:
+
+Let’s say your question is:\
+**“What is the effect of school feeding programs on child nutrition in low- and middle-income countries?”**
+
+We can translate each PICO element into searchable terms
+
+## 
+| **PICO** | **What it means**    | **Example search terms**                                   |
+|---------|----------------------|-------------------------------------------------------------|
+| **P**   | Population            | children<br>students                       |
+| **I**   | Intervention          | school feeding<br>school meals<br>    |
+| **C**   | Comparator (optional) | no feeding<br>before and after<br>        |
+| **O**   | Outcome               | nutrition<br>stunting<br>growth<br>malnutrition            |
+
+## 
+
+Then **combine the terms** using Boolean logic:
+
+
+`("school children" OR students OR "primary school") AND ("school feeding" OR "school meal" OR "food program") AND (nutrition OR stunting OR anemia OR malnutrition)`

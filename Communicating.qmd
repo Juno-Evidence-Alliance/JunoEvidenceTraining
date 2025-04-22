@@ -1,0 +1,113 @@
+---
+title: "Communicating Findings & Using Evidence for Policy"
+author: Matthew Grainger
+email: matthew.grainger@nina.no
+format:
+  revealjs:
+    slide-number: true
+    show-slide-number: all
+theme: solarized
+editor: visual
+---
+
+## 
+
+A good evidence synthesis is only useful if it's understood and used.
+
+🎯 Goal: Make your findings accessible, relevant, and actionable.
+
+---
+
+## Audiences and Uses
+
+| Audience | Use of Evidence |
+|----------|------------------|
+| 🧑‍💼 Policymakers | Inform policy design, scaling, or targeting of programs |
+| 🏢 NGOs / Practitioners | Improve delivery, design interventions |
+| 🎓 Researchers | Identify gaps, refine questions |
+| 💬 Funders | Support investment decisions and prioritisation |
+
+---
+
+## Policy Engagement Starts Early
+
+Involve users from the start:
+
+- Identify **policy-relevant questions**
+- Involve stakeholders in defining outcomes
+- Engage them in interpreting results
+
+🔁 Co-production builds **trust and relevance**
+
+---
+
+## Decision Models & Frameworks
+
+Evidence synthesis supports:
+
+- **Theory of change** refinement
+- **Cost-effectiveness comparisons**
+- **Multi-criteria decision analysis (MCDA)**
+- **Logic models** for implementation
+
+🛠 Can incorporate evidence from systematic maps (e.g., what interventions exist, where, and for whom?)
+
+---
+
+## From Evidence to Briefs
+
+A good **policy brief**:
+
+- Summarises key findings in plain language
+- Links evidence to policy challenges
+- Is short, visually engaging, and timely
+- Includes caveats and recommendations
+
+📝 2–4 pages max, with **clear, actionable messages**
+
+---
+
+## Visualising Evidence
+
+Help stakeholders understand the big picture with:
+
+- 📊 Evidence heat maps
+- 🌍 Geographic distribution maps
+- 🎯 Intervention-outcome matrices
+- 🚦 Certainty summaries (traffic light systems)
+
+📌 Make your synthesis visually engaging and decision-friendly.
+
+---
+
+## Example: From Map to Action
+
+> A systematic map on school feeding found 80 studies, but only 10 in low-income countries and only 3 measuring learning outcomes.
+
+👣 Next steps:
+- Commission impact evaluations in under-represented areas
+- Refocus programs to test broader outcomes
+
+---
+
+## Common Pitfalls
+
+🚫 Technical reports no one reads  
+🚫 Over-claiming results from poor-quality studies  
+🚫 Ignoring uncertainty and context
+
+✔️ Instead:
+- Translate, don’t oversimplify
+- Tailor to your audience
+- Provide clear but nuanced messages
+
+---
+
+## Your Turn
+
+Discuss:
+
+- Who are your **target users**?
+- What **decisions** could your synthesis inform?
+- How might you **present your findings** to support action?
+
