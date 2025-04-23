@@ -70,5 +70,3 @@ If studies: - Measure **comparable outcomes** - Use **similar designs** - Report
 Then we can **quantitatively combine results** using a **meta-analysis**.
 
 Meta-analysis: - Calculates an **average effect** - Tests for **variation (heterogeneity)** - Examines **moderators** (e.g., age group, intervention type)
-
-------------------------------------------------------------------------

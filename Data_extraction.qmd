@@ -92,8 +92,6 @@ An optional (but valuable) process in maps:
 | GRADE or GRADE-CERQual | Certainty in review findings |
 | Custom ecological or education-specific checklists | Maps and bespoke criteria |
 
-Consider: - Study design quality - Relevance to your context - Risk of bias (confounding, selection bias, reporting bias)
-
 ------------------------------------------------------------------------
 
 ## Critical Appraisal in School Feeding Maps?
