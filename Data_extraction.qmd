@@ -6,6 +6,7 @@ format:
   revealjs:
     slide-number: true
     show-slide-number: all
+    logo: images/JUNO_TAGLINE.png
 theme: solarized
 editor: visual
 ---
@@ -14,102 +15,101 @@ editor: visual
 
 Once you've identified relevant studies, the next step is to:
 
-1. Extract key information systematically
-2. (Optionally) Appraise the quality or relevance of the evidence
+1.  Extract key information systematically
+2.  (Optionally) Appraise the quality or relevance of the evidence
 
----
+------------------------------------------------------------------------
 
 ## What is Data Extraction?
 
 Structured process to collect data from included studies.
 
-🔑 Aim: Ensure consistency, transparency, and accuracy
+Aim: Ensure consistency, transparency, and accuracy
 
 Typical categories for extraction:
-- 📄 Bibliographic details (author, year, title)
-- 🌍 Study context (country, income level, school type)
-- 👧 Population (age, gender, schooling stage)
-- 🍎 Intervention (type, duration, delivery mechanism)
-- 🎯 Outcomes measured (nutrition, attendance, performance)
-- 🧪 Study design (RCT, observational, case study)
-- 📈 Results (if relevant for maps/meta-analysis)
 
----
+\- Bibliographic details (author, year, title)
+
+\- Study context (country, income level, school type)
+
+\- Population (age, gender, schooling stage)
+
+\- Intervention (type, duration, delivery mechanism)
+
+\- Outcomes measured (nutrition, attendance, performance)
+
+\- Study design (RCT, observational, case study)
+
+\- Results (if relevant for maps/meta-analysis)
+
+------------------------------------------------------------------------
 
 ## Extraction in Practice
 
-🛠 Tools:
-- Excel or Google Sheets
-- EPPI-Reviewer, Covidence, SRDR+
-- CADIMA (free tool for systematic maps)
+Tools: - Excel or Google Sheets - EPPI-Reviewer, Covidence, SRDR+ - CADIMA (free tool for systematic maps)
 
-✅ Build a **coding framework** based on your question & PICO
-✅ Pilot the form with 2-3 studies first
-✅ Define clear coding rules (e.g., controlled = RCT, matched design, or natural experiment?)
+Build a **coding framework** based on your question & PICO
 
----
+Pilot the form with 2-3 studies first
+
+Define clear coding rules (e.g., controlled = RCT, matched design, or natural experiment?)
+
+------------------------------------------------------------------------
 
 ## Example Coding Framework for School Feeding
 
-| Field | Example Values |
-|-------|----------------|
-| Country | Kenya, India, Brazil |
-| Intervention Type | Hot meal, snack, take-home ration |
-| Delivery | School-based, community-based |
-| Age Group | Primary, Secondary |
-| Outcome Domain | Nutrition, Attendance, Cognitive |
-| Study Design | RCT, Quasi-experimental, Cross-sectional |
-| Comparator | No feeding, different intervention |
-| Notes | Contextual details, challenges, implementation notes |
+| Field             | Example Values                                       |
+|-------------------|------------------------------------------------------|
+| Country           | Kenya, India, Brazil                                 |
+| Intervention Type | Hot meal, snack, take-home ration                    |
+| Delivery          | School-based, community-based                        |
+| Age Group         | Primary, Secondary                                   |
+| Outcome Domain    | Nutrition, Attendance, Cognitive                     |
+| Study Design      | RCT, Quasi-experimental, Cross-sectional             |
+| Comparator        | No feeding, different intervention                   |
+| Notes             | Contextual details, challenges, implementation notes |
 
----
+------------------------------------------------------------------------
 
 ## What is Critical Appraisal?
 
 An optional (but valuable) process in maps:
 
-- 🧭 Helps assess **study trustworthiness, relevance, and rigour**
-- Especially useful when considering **subgroup analysis** or **evidence weighting**
+-   Helps assess **study trustworthiness, relevance, and rigour**
+-   Especially useful when considering **subgroup analysis** or **evidence weighting**
 
-**Systematic maps** often **describe** risk of bias, rather than exclude studies.
+**Systematic maps/reviews** **describe** risk of bias, rather than exclude studies. (in environmental fields at least...)
 
----
+------------------------------------------------------------------------
 
 ## Appraisal Tools and Approaches
 
 | Tool/Approach | Suited For |
-|---------------|------------|
+|----------------------------------------|--------------------------------|
 | Mixed Methods Appraisal Tool (MMAT) | Mixed designs |
 | ROBINS-I | Non-randomised studies |
 | Cochrane RoB 2 | RCTs |
 | GRADE or GRADE-CERQual | Certainty in review findings |
 | Custom ecological or education-specific checklists | Maps and bespoke criteria |
 
-📌 Consider:
-- Study design quality
-- Relevance to your context
-- Risk of bias (confounding, selection bias, reporting bias)
+Consider: - Study design quality - Relevance to your context - Risk of bias (confounding, selection bias, reporting bias)
 
----
+------------------------------------------------------------------------
 
 ## Critical Appraisal in School Feeding Maps?
 
 You might ask:
 
-- Was the **intervention clearly described**?
-- Was there a **comparator group**?
-- Were **outcomes measured with validated tools**?
-- Is the **study generalisable** to other LMIC settings?
+-   Was the **intervention clearly described**?
+-   Was there a **comparator group**?
+-   Were **outcomes measured with validated tools**?
+-   Is the **study generalisable** to other LMIC settings?
 
-✔️ Include fields in your coding sheet to capture these!
+Include fields in your coding sheet to capture these!
 
----
+------------------------------------------------------------------------
 
 ## Your Turn
 
-Discuss with a partner:
-
-- What **study features** would you want to extract from school feeding literature?
-- What **indicators of quality** would be most useful for decision-makers?
-
-Optional: Start drafting a mini data extraction form in Google Sheets or Excel.
+-   What **study features** would you want to extract from school feeding literature?
+-   What **indicators of quality** would be most useful for decision-makers?

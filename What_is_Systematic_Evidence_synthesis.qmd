@@ -6,6 +6,7 @@ format:
   revealjs:
     slide-number: true
     show-slide-number: all
+    logo: images/JUNO_TAGLINE.png
 theme: sky
 editor: visual
 ---
@@ -141,6 +142,26 @@ ggplot(power_data, aes(x = SampleSize, y = Power, color = EffectSize)) +
   theme(legend.position = "bottom")
 
 ```
+
+## Effect size - a quick detour...
+
+::::: columns
+::: column
+![Small effect: Coke vs. Pepsi](images/coke_vs_pepsi.png)
+
+**Small effect**\
+
+*Coke vs. Pepsi: You might notice, but not everyone does.*
+:::
+
+::: column
+![Large effect: Phone vs. smartphone](images/phones.jpg)
+
+**Large effect**\
+
+*House phone vs. smartphone: Totally obvious and life-changing.*
+:::
+:::::
 
 ## Too many studies
 

@@ -6,6 +6,7 @@ format:
   revealjs:
     slide-number: true
     show-slide-number: all
+    logo: images/JUNO_TAGLINE.png
 theme: solarized
 editor: visual
 ---
@@ -14,64 +15,60 @@ editor: visual
 
 Why do we screen?
 
-- Remove irrelevant studies
-- Focus on the most relevant, eligible evidence
-- Ensure consistency and transparency
+-   Remove irrelevant studies
+-   Focus on the most relevant, eligible evidence
+-   Ensure consistency and transparency
 
 Screening applies your **inclusion/exclusion criteria** in a systematic way.
 
----
+------------------------------------------------------------------------
 
 ## Two-Stage Screening
 
 | Stage | What happens? | Tool Examples |
-|-------|----------------|---------------|
+|------------------------|------------------------|------------------------|
 | **1. Title & Abstract** | Quickly assess relevance | Rayyan, Colandr, Covidence |
 | **2. Full-Text** | Apply detailed eligibility criteria | Excel, EPPI-Reviewer, SyRF |
 
 📝 Keep a record of decisions and reasons for exclusion.
 
----
+------------------------------------------------------------------------
 
 ## Screening Workflow
 
-1. Upload search results
-2. **De-duplicate** records
-3. Pilot screening with 2 reviewers on a subset (test inter-rater agreement)
-4. Screen title/abstract
-5. Retrieve and screen full text
-6. Resolve conflicts (3rd reviewer or consensus)
+1.  Upload search results
+2.  **De-duplicate** records
+3.  Pilot screening with 2 reviewers on a subset (test inter-rater agreement)
+4.  Screen title/abstract
+5.  Retrieve and screen full text
+6.  Resolve conflicts (3rd reviewer or consensus)
 
 💡 Track reasons for exclusion at full-text stage.
 
----
+------------------------------------------------------------------------
 
 ## Screening Tools
 
-| Tool | Features |
-|------|----------|
-| **Rayyan** | Free, fast, AI-assisted screening, browser-based |
-| **Colandr** | Open-source, built for systematic reviews |
-| **Covidence** | Intuitive interface, supports PRISMA tracking, paid |
-| **EPPI-Reviewer** | Very powerful, used in complex reviews, paid |
-| **Excel** | Simple and flexible for smaller projects |
+| Tool              | Features                                            |
+|-------------------|-----------------------------------------------------|
+| **Rayyan**        | Free, fast, AI-assisted screening, browser-based    |
+| **Colandr**       | Open-source, built for systematic reviews           |
+| **Covidence**     | Intuitive interface, supports PRISMA tracking, paid |
+| **EPPI-Reviewer** | Very powerful, used in complex reviews, paid        |
+| **Excel**         | Simple and flexible for smaller projects            |
 
-
----
+------------------------------------------------------------------------
 
 ## Common Screening Challenges
 
-- Ambiguous abstracts  
-- Missing information  
-- Poor inter-rater agreement  
-- Overlapping interventions or outcomes
+-   Ambiguous abstracts\
+-   Missing information\
+-   Poor inter-rater agreement\
+-   Overlapping interventions or outcomes
 
-**Tips:**
-- Pilot carefully
-- Use structured decision rules
-- Regularly meet as a team to calibrate decisions
+**Tips:** - Pilot carefully - Use structured decision rules - Regularly meet as a team to calibrate decisions
 
----
+------------------------------------------------------------------------
 
 ## Screening in School Feeding Review
 
@@ -79,15 +76,9 @@ Screening applies your **inclusion/exclusion criteria** in a systematic way.
 
 > “The impact of school feeding programs on learning outcomes in LMICs”
 
-Ask:
-- Is the **population** school-aged children in LMICs?
-- Is there an **intervention** related to food or nutrition in schools?
-- Are **outcomes** education-related?
+Ask: - Is the **population** school-aged children in LMICs? - Is there an **intervention** related to food or nutrition in schools? - Are **outcomes** education-related?
 
-Try screening this title:
-> *“A randomised trial of mid-day meals and literacy gains in rural Kenya”*
+Try screening this title: \> *“A randomised trial of mid-day meals and literacy gains in rural Kenya”*
 
-✅ Include? ❌ Exclude? 🤔 Unclear?  
+✅ Include? ❌ Exclude? 🤔 Unclear?\
 Let’s discuss!
-
-

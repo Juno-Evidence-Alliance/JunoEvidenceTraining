@@ -6,6 +6,7 @@ format:
   revealjs:
     slide-number: true
     show-slide-number: all
+    logo: images/JUNO_TAGLINE.png
 theme: solarized
 editor: visual
 ---
@@ -48,7 +49,7 @@ SPICE – for service delivery and policy evaluations
 
 Example: In [public schools in Malawi]{style="color:red;"}, how does [providing breakfast and lunch]{style="color:blue;"} to [primary school students]{style="color:green;"} compare to [lunch only]{style="color:purple;"} in terms of [learning outcomes and enrollment]{style="\"color:orange;"}?
 
-## Your Turn 
+## Your Turn
 
 Try framing these using PICO/PECO/SPICE (intervention, exposure, or service delivery):
 
@@ -72,16 +73,16 @@ Let’s say your question is:\
 We can translate each PICO element into searchable terms
 
 ## 
-| **PICO** | **What it means**    | **Example search terms**                                   |
-|---------|----------------------|-------------------------------------------------------------|
-| **P**   | Population            | children<br>students                       |
-| **I**   | Intervention          | school feeding<br>school meals<br>    |
-| **C**   | Comparator (optional) | no feeding<br>before and after<br>        |
-| **O**   | Outcome               | nutrition<br>stunting<br>growth<br>malnutrition            |
+
+| **PICO** | **What it means** | **Example search terms** |
+|---------------|---------------|-------------------------------------------|
+| **P** | Population | children<br>students |
+| **I** | Intervention | school feeding<br>school meals<br> |
+| **C** | Comparator (optional) | no feeding<br>before and after<br> |
+| **O** | Outcome | nutrition<br>stunting<br>growth<br>malnutrition |
 
 ## 
 
 Then **combine the terms** using Boolean logic:
-
 
 `("school children" OR students OR "primary school") AND ("school feeding" OR "school meal" OR "food program") AND (nutrition OR stunting OR anemia OR malnutrition)`

@@ -6,6 +6,7 @@ format:
   revealjs:
     slide-number: true
     show-slide-number: all
+    logo: images/JUNO_TAGLINE.png
 theme: solarized
 editor: visual
 ---
@@ -22,7 +23,7 @@ editor: visual
 ## Key Protocol Components
 
 | Section | What it covers |
-|-------------------------|------------------------------------------------|
+|-------------------------|----------------------------------------------|
 | **1. Title & Authors** | Project title, team, affiliations |
 | **2. Background** | Context and rationale for the review/map |
 | **3. Objectives** | Research question using a structured framework (e.g. PICO, PECO) |
@@ -30,8 +31,9 @@ editor: visual
 | **5. Search Strategy** | Databases, grey literature, keywords, Boolean logic |
 
 ## 
+
 | Section | What it covers |
-|-------------------------|------------------------------------------------|
+|-------------------------|----------------------------------------------|
 | **6. Screening Process** | Title/abstract and full-text screening, tools (e.g. Rayyan, EPPI Reviewer) |
 | **7. Data Coding / Extraction** | What data will be extracted, coding framework, piloting |
 | **8. Study Mapping / Synthesis** | How data will be described (charts, tables, EGMs), not meta-analyzed |
@@ -39,8 +41,9 @@ editor: visual
 | **10. Stakeholder Engagement** | If and how you’ll consult users, policymakers, practitioners |
 
 ## 
+
 | Section | What it covers |
-|-------------------------|------------------------------------------------|
+|-------------------------|----------------------------------------------|
 | **11. Timeline & Roles** | Who does what, and when |
 | **12. Conflicts of Interest** | Declare funding, conflicts, and ethical considerations |
 
@@ -60,7 +63,6 @@ editor: visual
 
 Where to register your protocol:
 
--   [3ie](https://www.3ieimpact.org/evidence-hub/protocol-library) (impact evaluations/systematic reviews)
 -   [PROSPERO](https://www.crd.york.ac.uk/prospero/) (mostly health)
 -   [OSF](https://osf.io/) (any discipline)
 -   [CABI protocolRxiv](https://www.cabidigitallibrary.org/product/ep)
@@ -69,7 +71,9 @@ Where to register your protocol:
 
 ## Your Turn
 
-Break into groups and sketch out:
+Spend some time looking at protocols on [CABI protocolRxiv](https://www.cabidigitallibrary.org/product/ep).
+
+Then sketch out:
 
 -   Your **review/map objective**
 -   Your **PICO/PECO question**

@@ -6,6 +6,7 @@ format:
   revealjs:
     slide-number: true
     show-slide-number: all
+    logo: images/JUNO_TAGLINE.png
 theme: solarized
 editor: visual
 ---
@@ -14,95 +15,60 @@ editor: visual
 
 Once data are extracted, we need to make sense of it all:
 
-🎯 What patterns emerge?
-📊 Can we combine results statistically?
-🧭 What gaps remain?
+What patterns emerge?
 
----
+Can we combine results statistically?
 
-## Types of Synthesis
+What gaps remain?
 
-| Method | Used For | Common in |
-|--------|----------|-----------|
-| **Narrative synthesis** | Describing patterns, themes, study characteristics | Systematic maps & reviews |
-| **Descriptive synthesis** | Tables, counts, frequencies | Systematic maps |
-| **Meta-analysis** | Quantitative combination of results | Systematic reviews |
-| **Thematic synthesis** | Qualitative patterns from text | Mixed-methods or qualitative reviews |
-
----
+------------------------------------------------------------------------
 
 ## Narrative Synthesis
 
+**Awful name** \[Not a Narrative Review\]
+
 Tells the **story** of the evidence:
 
-- Summarises **who studied what, where, and how**
-- Identifies **patterns, themes, contradictions**
-- Often uses **structured tables** and thematic grouping
+-   Summarises **who studied what, where, and how**
+-   Identifies **patterns, themes, contradictions**
+-   Often uses **structured tables** and thematic grouping
 
-🛠 Useful when:
-- Studies are too heterogeneous to meta-analyse
-- Outcomes or interventions are diverse
+Useful when: - Studies are too heterogeneous to meta-analyse - Outcomes or interventions are diverse
 
----
+------------------------------------------------------------------------
 
 ## Narrative Synthesis Example
 
 > “Most school feeding studies in Sub-Saharan Africa focused on nutrition and attendance, but fewer addressed cognitive outcomes. Hot meals were the most common intervention, often targeted to primary school children.”
 
-Common presentation tools:
-- Tables of intervention types by country
-- Frequency counts (e.g., how many studies found a positive effect)
-- Thematic summary by outcome domain
+Common presentation tools: - Tables of intervention types by country) - Thematic summary by outcome domain
 
----
+------------------------------------------------------------------------
 
 ## Systematic Maps: Descriptive Synthesis
 
 Typical outputs:
-- 📦 Evidence matrices
-- 📍 Geographic maps
-- 📊 Bar charts of intervention types
-- 🧭 Research gap maps
+
+-   Evidence matrices
+
+-   Geographic maps
+
+-   Bar charts of intervention types
+
+-   Research gap maps
 
 Aim: Show **what exists**, not estimate effects.
 
-Example question:
-> “What evidence exists on the impact of school feeding on children’s education in LMICs?”
+Example question: “What evidence exists on the impact of school feeding on children’s education in LMICs?”
 
----
+------------------------------------------------------------------------
 
 ## Transition to Meta-Analysis
 
-If studies:
-- Measure **comparable outcomes**
-- Use **similar designs**
-- Report **effect sizes or data to calculate them**
+If studies: - Measure **comparable outcomes** - Use **similar designs** - Report **effect sizes or data to calculate them**
 
 Then we can **quantitatively combine results** using a **meta-analysis**.
 
-🧮 Meta-analysis:
-- Calculates an **average effect**
-- Tests for **variation (heterogeneity)**
-- Examines **moderators** (e.g., age group, intervention type)
+Meta-analysis: - Calculates an **average effect** - Tests for **variation (heterogeneity)** - Examines **moderators** (e.g., age group, intervention type)
 
----
-
-## Synthesis in Practice
-
-| Review Type | Common Synthesis Approach |
-|-------------|---------------------------|
-| Systematic Map | Descriptive tables, frequencies, mapping |
-| Systematic Review (qualitative) | Narrative synthesis |
-| Systematic Review (quantitative) | Meta-analysis |
-| Mixed-methods | Combination of the above |
-
----
-
-## Your Turn
-
-Look at your question and study set:
-
-- What kind of synthesis is appropriate?
-- What information do you need from your data extraction to support that?
-- Would visual summaries help? (e.g., intervention-outcome matrix)
-
+------------------------------------------------------------------------

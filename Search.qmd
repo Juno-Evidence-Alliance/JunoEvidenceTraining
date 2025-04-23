@@ -6,6 +6,7 @@ format:
   revealjs:
     slide-number: true
     show-slide-number: all
+    logo: images/JUNO_TAGLINE.png
 theme: solarized
 editor: visual
 ---
@@ -21,7 +22,7 @@ Your search is the foundation of your review.
 ## Key Elements of a Search Strategy
 
 1.  **Search terms** based on your PICO
-2.  **Boolean logic** (AND, OR, NOT)
+2.  **Boolean logic** (AND, OR)
 3.  **Synonyms and variants**
 4.  **Filters** (e.g., date, language—only if justified!)
 5.  **Documentation** of all search decisions
@@ -30,12 +31,12 @@ Your search is the foundation of your review.
 
 ## Databases for Development and Food Security
 
-| Type | Examples |
-|----|----|
-| **Academic** | Scopus, Web of Science, PubMed, AGRICOLA |
-| **Specialist** | EconLit, ERIC (education), CABI, IBSS |
-| **Grey Literature** | Google Scholar, WHO IRIS, WFP, FAO, UNICEF, World Bank |
-| **Preprint Servers** | SSRN, Research Square, arXiv |
+| Type                 | Examples                                   |
+|----------------------|--------------------------------------------|
+| **Academic**         | Scopus, Web of Science, PubMed, AGRICOLA   |
+| **Specialist**       | EconLit, ERIC (education), CABI, IBSS      |
+| **Grey Literature**  | Google Scholar, WHO IRIS, WFP, FAO, UNICEF |
+| **Preprint Servers** | SSRN, Research Square, arXiv               |
 
 💡 **Tip**: Different databases require different syntax—check guidelines!
 
@@ -46,8 +47,6 @@ Your search is the foundation of your review.
 -   **Unpublished or non-commercial sources**: reports, theses, government docs, NGO outputs
 -   Often contains *contextual, local*, or *policy-relevant* insights
 -   Essential for mapping **real-world interventions** like school feeding
-
-Sources: - INGOs (WFP, Save the Children, GAIN) - Government portals (Ministries of Education/Health) - Think tanks (IFPRI, Brookings) - Institutional repositories (e.g., 3ie, Evidence for Policy Design)
 
 ------------------------------------------------------------------------
 
@@ -67,6 +66,10 @@ For **Scopus**: ("school feeding" OR "school meals" OR "nutrition programme") AN
 ✅ Pilot and refine search terms\
 ✅ Consult an information specialist or librarian\
 ✅ Balance **sensitivity** (finding everything) and **specificity** (avoiding junk)
+
+::: fragment
+✅ Ask a librarian!!!!\
+:::
 
 ------------------------------------------------------------------------
 
