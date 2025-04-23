@@ -9,7 +9,7 @@
 | 10:00-10:15   | Welcome & Introduction                                                  | Valeria          |                                                                                                                                 |
 | 10:15-11:15   | What is Systematic Evidence Synthesis? & Why Use Systematic Approaches? | Matt             | [Slides - What is evidence synthesis?](https://juno-evidence-alliance.github.io/JunoEvidenceTraining/What_is_Systematic_Evidence_synthesis.html) |
 | 11:15-11:30   | Break                                                                   |                  |                                                                                                                                 |
-| 11:30-12:00   | Question Formulation                                                    | Matt             | [Slides - Question setting](https://juno-evidence-alliance.github.io/JunoEvidenceTraining/PICO.html)                           |
+| 11:30-12:00   | Question Formulation                                                    | Matt             | [Slides - Question setting](https://juno-evidence-alliance.github.io/JunoEvidenceTraining/PECO.html)                           |
 | 12:00-12:45   | Hands-on: Drafting Review Questions                                     | Matt             |                                                                                                                                 |
 | 12:45-13:00   | Recap and Q&A                                                           | Matt             |                                                                                                                                 |
 
