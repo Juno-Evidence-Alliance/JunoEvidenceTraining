@@ -7,7 +7,7 @@ format:
     slide-number: true
     show-slide-number: all
     logo: images/JUNO_TAGLINE.png
-theme: solarized
+theme: juno-theme.scss
 editor: visual
 ---
 
@@ -23,7 +23,7 @@ editor: visual
 ## Key Protocol Components
 
 | Section | What it covers |
-|-------------------------|----------------------------------------------|
+|--------------------------|----------------------------------------------|
 | **1. Title & Authors** | Project title, team, affiliations |
 | **2. Background** | Context and rationale for the review/map |
 | **3. Objectives** | Research question using a structured framework (e.g. PICO, PECO) |
@@ -33,7 +33,7 @@ editor: visual
 ## 
 
 | Section | What it covers |
-|-------------------------|----------------------------------------------|
+|--------------------------|----------------------------------------------|
 | **6. Screening Process** | Title/abstract and full-text screening, tools (e.g. Rayyan, EPPI Reviewer) |
 | **7. Data Coding / Extraction** | What data will be extracted, coding framework, piloting |
 | **8. Study Mapping / Synthesis** | How data will be described (charts, tables, EGMs), not meta-analyzed |
@@ -43,7 +43,7 @@ editor: visual
 ## 
 
 | Section | What it covers |
-|-------------------------|----------------------------------------------|
+|--------------------------|----------------------------------------------|
 | **11. Timeline & Roles** | Who does what, and when |
 | **12. Conflicts of Interest** | Declare funding, conflicts, and ethical considerations |
 

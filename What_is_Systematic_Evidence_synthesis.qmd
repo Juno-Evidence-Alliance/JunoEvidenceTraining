@@ -7,7 +7,7 @@ format:
     slide-number: true
     show-slide-number: all
     logo: images/JUNO_TAGLINE.png
-theme: sky
+theme: juno-theme.scss
 editor: visual
 ---
 

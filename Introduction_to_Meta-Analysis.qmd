@@ -7,7 +7,7 @@ format:
     slide-number: true
     show-slide-number: all
     logo: images/JUNO_TAGLINE.png
-theme: sky
+theme: juno-theme.scss
 editor: visual
 ---
 
@@ -121,7 +121,7 @@ $$v_i = \frac{SD_1^2}{n_1 \cdot \text{Mean}_1^2} + \frac{SD_2^2}{n_2 \cdot \text
 ## 
 
 | Study                      | LnRR  | Variance (vi) | Weight in Meta-Analysis |     |
-|-------------------|-------------|-------------|-----------------|-------------|
+|---------------|---------------|---------------|---------------|---------------|
 | Study A (Large n, Low SD)  | -0.20 | 0.01          | High ✅                  |     |
 | Study B (Small n, High SD) | -0.20 | 0.10          | Low ❌                   |     |
 

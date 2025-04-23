@@ -7,7 +7,7 @@ format:
     slide-number: true
     show-slide-number: all
     logo: images/JUNO_TAGLINE.png
-theme: solarized
+theme: juno-theme.scss
 editor: visual
 ---
 
@@ -62,7 +62,6 @@ Can incorporate evidence from systematic maps (e.g., what interventions exist, w
 ## Decision models
 
 ![](images/Flood2.png){width="100%"}
-
 
 ## From Evidence to Briefs
 
