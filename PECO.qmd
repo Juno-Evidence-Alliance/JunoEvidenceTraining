@@ -75,7 +75,7 @@ We can translate each PICO element into searchable terms
 ## 
 
 | **PICO** | **What it means** | **Example search terms** |
-|----------------|----------------|----------------------------------------|
+|----|----|----|
 | **P** | Population | children<br>students |
 | **I** | Intervention | school feeding<br>school meals<br> |
 | **C** | Comparator (optional) | no feeding<br>before and after<br> |

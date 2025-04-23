@@ -103,7 +103,7 @@ ggplot(plot_data, aes(x = biodiversity, y = Productivity)) +
 
 ## Small studies
 
--   [Small studies have a higher probability of false-positives]{style="color:darkred;"}
+-   *Small studies have a higher probability of false-positives*
 
 ```{r}
 #| echo: false
