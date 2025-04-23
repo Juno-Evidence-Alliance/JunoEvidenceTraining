@@ -1,5 +1,3 @@
-![](images/JUNO_TAGLINE.png)
-
 ## Workshop Outline:
 
 Day 1: Setting the Stage & Understanding the Landscape
