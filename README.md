@@ -1,54 +1,54 @@
 ## Workshop Outline:
 
-Day 1: Setting the Stage & Understanding the Landscape
+## Day 1: Setting the Stage & Understanding the Landscape  
+**Wednesday, April 23, 2025 | 10:00-13:00 ET**  
+**Theme:** *Understanding the What, Why, and How of Systematic Evidence Synthesis*
 
-Wednesday April 23, 2025 10:00-13:00 ET
+| Time          | Session                                                                 | Facilitator/Lead | Link to Files                                                                                                                   |
+|---------------|-------------------------------------------------------------------------|------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| 10:00-10:15   | Welcome & Introduction                                                  | Valeria          |                                                                                                                                 |
+| 10:15-11:15   | What is Systematic Evidence Synthesis? & Why Use Systematic Approaches? | Matt             | [Slides - What is evidence synthesis?](https://juno-evidence-alliance.github.io/JunoEvidenceTraining/What_is_Systematic_Evidence_synthesis.html) |
+| 11:15-11:30   | Break                                                                   |                  |                                                                                                                                 |
+| 11:30-12:00   | Question Formulation                                                    | Matt             | [Slides - Question setting](https://juno-evidence-alliance.github.io/JunoEvidenceTraining/PICO.html)                           |
+| 12:00-12:45   | Hands-on: Drafting Review Questions                                     | Matt             |                                                                                                                                 |
+| 12:45-13:00   | Recap and Q&A                                                           | Matt             |                                                                                                                                 |
 
-Theme: Understanding the What, Why, and How of Systematic Evidence Synthesis
+---
 
-| Time| Session| Facilitator/Lead | Link to files|
-|---|---|---|---|
-| 10:00 - 10:15 | Welcome & Introduction                                                  | Valeria          |                                                                                                                                                  |
-| 10:15 - 11:15 | What is Systematic Evidence Synthesis? & Why Use Systematic Approaches? | Matt             | [Slides - what is evidence synthesis?](https://juno-evidence-alliance.github.io/JunoEvidenceTraining/What_is_Systematic_Evidence_synthesis.html) |
-| 11:15 - 11:30 | Break                                                                   |                  |                                                                                                                                                  |
-| 11:30 - 12:00 | Question Formulation                                                    | Matt             | [Slides - Question setting](https://juno-evidence-alliance.github.io/JunoEvidenceTraining/PICO.html)                                             |
-| 12:00 - 12:45 | Hands-on: Drafting Review Questions                                     | Matt             |                                                                                                                                                  |
-| 12:45 - 1:00  | Recap and Q&A                                                           | Matt             |                                                                                                                                                  |
+## Day 2: Planning and Conducting a Systematic Review  
+**Thursday, April 24, 2025 | 10:00-13:00 ET**  
+**Theme:** *Protocols, Searching, and Screening*
 
-Day 2 - Planning and Conducting a Systematic Review
+| Time          | Session                    | Facilitator/Lead | Link to Files                                                                                 |
+|---------------|----------------------------|------------------|-----------------------------------------------------------------------------------------------|
+| 10:00-10:15   | Recap Day 1 & Intro to Day 2 | Matt             |                                                                                               |
+| 10:15-10:45   | Designing a Protocol         | Matt             | [Slides - The Protocol](https://juno-evidence-alliance.github.io/JunoEvidenceTraining/Protocol.html) |
+| 10:45-11:15   | Searching for Evidence       | Matt             | [Slides - Search](https://juno-evidence-alliance.github.io/JunoEvidenceTraining/Search.html)         |
+| 11:15-11:30   | Break                        |                  |                                                                                               |
+| 11:30-12:30   | AI Tools in Evidence Synthesis | Jaron           |                                                                                               |
+| 12:30-13:00   | Screening in Practice        | Matt             | [Slides - Screening](https://juno-evidence-alliance.github.io/JunoEvidenceTraining/Screening.html)   |
 
-Thursday April 24, 2025 10:00-13:00 ET\
+---
 
-Theme: Protocols, Searching, and Screening
+## Day 3: Data Extraction, Synthesis, and Communication  
+**Friday, April 25, 2025 | 10:00-13:00 ET**  
+**Theme:** *From Data to Decision-Making*
 
-| Time          | Session                        | Facilitator/Lead | Link to files|
-|---|---|---|---|
-| 10:00 - 10:15 | Recap Day 1 & Intro to Day 2   | Matt             |                                                                                                      |
-| 10:15 - 10:45 | Designing a Protocol           | Matt             | [Slides - The Protocol](https://juno-evidence-alliance.github.io/JunoEvidenceTraining/Protocol.html) |
-| 10:45 - 11:15 | Searching for Evidence         | Matt             | [Slides - Search](https://juno-evidence-alliance.github.io/JunoEvidenceTraining/Search.html)         |
-| 11:15 - 11:30 | Break                          |                  |                                                                                                      |
-| 11:30 - 12:30 | AI Tools in Evidence Synthesis | Jaron            |                                                                                                      |
-| 12:30 - 13:00 | Screening in Practice          | Matt             | [Slides - Screening](https://juno-evidence-alliance.github.io/JunoEvidenceTraining/Screening.html)   |
+| Time          | Session                                            | Facilitator/Lead | Link to Files                                                                                                                             |
+|---------------|----------------------------------------------------|------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| 10:00-10:15   | Recap of Day 2 & Intro to Day 3                    | Matt             |                                                                                                                                           |
+| 10:15-10:45   | Data Extraction & Critical Appraisal               | Matt             | [Slides - Data Extraction & CA](https://juno-evidence-alliance.github.io/JunoEvidenceTraining/Data_extraction.html)                      |
+| 10:45-11:15   | Synthesis Methods                                  | Matt             | [Slides - Synthesis methods](https://juno-evidence-alliance.github.io/JunoEvidenceTraining/Synthesis_methods.html)                       |
+|               |                                                    |                  | [Slides - Meta-analysis](https://juno-evidence-alliance.github.io/JunoEvidenceTraining/Introduction_to_Meta-Analysis.html)               |
+| 11:15-11:30   | Break                                              |                  |                                                                                                                                           |
+| 11:30-12:00   | Communicating Findings & Using Evidence for Policy | Matt             | [Slides - Communication of findings](https://juno-evidence-alliance.github.io/JunoEvidenceTraining/Communicating.html)                   |
+| 12:00-12:45   | Specific Questions for the School Feeding Review   | Matt             |                                                                                                                                           |
+| 12:45-13:00   | Round-up and Next Steps                            | Matt             |                                                                                                                                           |
 
-Day 3 - Data Extraction, Synthesis, and Communication
-
-Friday April 25, 2025 10:00-13:00 ET
-
-Theme: From Data to Decision-Making
-
-| Time          | Session                                            | Facilitator/Lead | Link to files                                                                               |---|---|---|---|                               |
-| 10:00 - 10:15 | Recap of Day 2 & Intro to Day 3                    | Matt             |                                                                                                                            |
-| 10:15 - 10:45 | Data Extraction & Critical Appraisal               | Matt             | [Slides - Data Extraction & CA](https://juno-evidence-alliance.github.io/JunoEvidenceTraining/Data_extraction.html)        |
-| 10:45 - 11:15 | Synthesis Methods                                  | Matt             | [Slides - Synthesis methods](https://juno-evidence-alliance.github.io/JunoEvidenceTraining/Synthesis_methods.html)         |
-|               |                                                    |                  |                                                                                                                            |
-|               |                                                    |                  | [Slides - Meta-analysis](https://juno-evidence-alliance.github.io/JunoEvidenceTraining/Introduction_to_Meta-Analysis.html) |
-| 11:15 - 11:30 | Break                                              |                  |                                                                                                                            |
-| 11:30 - 12:00 | Communicating Findings & Using Evidence for Policy | Matt             | [Slides - Communication of findings](https://juno-evidence-alliance.github.io/JunoEvidenceTraining/Communicating.html)     |
-| 12:00 - 12:45 | Specific questions for the School Feeding Review   | Matt             |                                                                                                                            |
-
-| 12:45 - 13:00 | Round-up and Next steps                            | Matt             |                                                                                                                            |
+---
 
 ## Workshop Materials:
+
 
 All materials can be found within this repository.
 
