@@ -47,7 +47,7 @@ SPICE – for service delivery and policy evaluations
 
 [S]{style="color:red;"}[P]{style="color:green;"}[I]{style="color:blue;"}[C]{style="color:purple;"}[E]{style="color:orange;"} [Setting]{style="color:red;"} [Population]{style="color:green;"} [Intervention]{style="color:blue;"} [Comparison]{style="color:purple;"} [Evaluation]{style="color:orange;"}
 
-Example: In [public schools in Malawi]{style="color:red;"}, how does [providing breakfast and lunch]{style="color:blue;"} to [primary school students]{style="color:green;"} compare to [lunch only]{style="color:purple;"} in terms of [learning outcomes and enrollment]{style="\"color:orange;"}?
+Example: In [public schools in Malawi]{style="color:red;"}, how does [providing breakfast and lunch]{style="color:blue;"} to [primary school students]{style="color:green;"} compare to [lunch only]{style="color:purple;"} in terms of [learning outcomes and enrolment]{style="color:orange;"}?
 
 ## Your Turn
 
