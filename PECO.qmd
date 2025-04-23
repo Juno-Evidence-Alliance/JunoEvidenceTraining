@@ -53,13 +53,13 @@ Example: In [public schools in Malawi]{style="color:red;"}, how does [providing 
 
 Try framing these using PICO/PECO/SPICE (intervention, exposure, or service delivery):
 
-Does the frequency of school meals influence academic performance among students in rural Ethiopia?
+**Does the frequency of school meals influence academic performance among students in rural Ethiopia?**
 
-How does household income level affect children's access to school feeding programs in urban India?
+**How does household income level affect children's access to school feeding programs in urban India?**
 
-What is the prevalence of underweight children in regions with and without school feeding programs?
+**What is the prevalence of underweight children in regions with and without school feeding programs?**
 
-In low-income countries, what are the effects of take-home rations compared to in-school feeding on girls’ school attendance?
+**In low-income countries, what are the effects of take-home rations compared to in-school feeding on girls’ school attendance?**
 
 ## Why do we do this?
 
