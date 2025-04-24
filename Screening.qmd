@@ -70,7 +70,7 @@ Screening applies your **inclusion/exclusion criteria** in a systematic way.
 
 ------------------------------------------------------------------------
 
-## Screening in School Feeding Review
+## Screening in School Feeding Review {visibility="hidden"}
 
 💬 Example: Screening titles on:
 
