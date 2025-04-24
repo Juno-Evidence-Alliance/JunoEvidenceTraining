@@ -26,6 +26,7 @@ editor: visual
 |--------------------------|----------------------------------------------|
 | **1. Title & Authors** | Project title, team, affiliations |
 | **2. Background** | Context and rationale for the review/map |
+| **2a. Theory of change** | Conceptual model of how the interventions lead to (desired) outcomes |
 | **3. Objectives** | Research question using a structured framework (e.g. PICO, PECO) |
 | **4. Eligibility Criteria** | Inclusion/exclusion: study types, settings, populations, outcomes |
 | **5. Search Strategy** | Databases, grey literature, keywords, Boolean logic |
@@ -36,7 +37,7 @@ editor: visual
 |--------------------------|----------------------------------------------|
 | **6. Screening Process** | Title/abstract and full-text screening, tools (e.g. Rayyan, EPPI Reviewer) |
 | **7. Data Coding / Extraction** | What data will be extracted, coding framework, piloting |
-| **8. Study Mapping / Synthesis** | How data will be described (charts, tables, EGMs), not meta-analyzed |
+| **8. Study Mapping / Synthesis** | How data will be described (charts, tables, EGMs), etc. |
 | **9. Critical Appraisal** | Optional in maps, but state if/how study quality will be assessed |
 | **10. Stakeholder Engagement** | If and how you’ll consult users, policymakers, practitioners |
 
@@ -49,7 +50,7 @@ editor: visual
 
 ------------------------------------------------------------------------
 
-## Example Objective
+## Example Objective {visibility="hidden"}
 
 > “To systematically map the evidence on the impacts of school feeding programs on nutritional, educational, and social outcomes among children in low- and middle-income countries.”
 
@@ -69,7 +70,7 @@ Where to register your protocol:
 
 ------------------------------------------------------------------------
 
-## Your Turn
+## Your Turn {visibility="hidden"}
 
 Spend some time looking at protocols on [CABI protocolRxiv](https://www.cabidigitallibrary.org/product/ep).
 

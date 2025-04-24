@@ -21,8 +21,9 @@
 
 | Time          | Session                    | Facilitator/Lead | Link to Files                                                                                 |
 |---------------|----------------------------|------------------|-----------------------------------------------------------------------------------------------|
-| 10:00-10:15   | Recap Day 1 & Intro to Day 2 | Matt             |                                                                                               |
-| 10:15-10:45   | Designing a Protocol         | Matt             | [Slides - The Protocol](https://juno-evidence-alliance.github.io/JunoEvidenceTraining/Protocol.html) |
+| 10:00-10:05   | Recap Day 1 & Intro to Day 2 | Matt             |                                                                                               |
+| 10:05-10:15   | Designing a Protocol         | Matt             | [Slides - The Protocol](https://juno-evidence-alliance.github.io/JunoEvidenceTraining/Protocol.html) |
+| 10:15-10:45   | Discuss protocol development for Colombia         | All             |  |
 | 10:45-11:15   | Searching for Evidence       | Matt             | [Slides - Search](https://juno-evidence-alliance.github.io/JunoEvidenceTraining/Search.html)         |
 | 11:15-11:30   | Break                        |                  |                                                                                               |
 | 11:30-12:30   | AI Tools in Evidence Synthesis | Jaron           |                                                                                               |
