@@ -40,8 +40,9 @@ Screening applies your **inclusion/exclusion criteria** in a systematic way.
 2.  **De-duplicate** records
 3.  Pilot screening with 2 reviewers on a subset (test inter-rater agreement)
 4.  Screen title/abstract
-5.  Retrieve and screen full text
-6.  Resolve conflicts (3rd reviewer or consensus)
+5.  Resolve conflicts (3rd reviewer or consensus)
+6.  Retrieve and screen full text
+7.  Resolve conflicts
 
 💡 Track reasons for exclusion at full-text stage.
 
