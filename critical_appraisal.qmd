@@ -1,0 +1,180 @@
+---
+title: "Critical appraisal"
+subtitle: "Rubbish name - important concept!"
+author: Matthew Grainger
+email: matthew.grainger@nina.no
+format:
+  revealjs:
+    slide-number: true
+    show-slide-number: all
+    logo: images/JUNO_TAGLINE.png
+theme: juno-theme.scss
+editor: visual
+---
+
+## What is Critical Appraisal?
+
+-   The process of **assessing the trustworthiness** of evidence\
+-   Goes beyond reading results – asks:
+    -   *How reliable are the findings?*\
+    -   *What biases might be present?*\
+    -   **NOT about impact factors**
+
+## Why Do We Need It?
+
+-   Studies are rarely perfect\
+-   Biases can creep in at every stage\
+-   **Critical appraisal helps us avoid being misled**\
+-   Key in systematic reviews, meta-analyses, and evidence-based decision making
+
+------------------------------------------------------------------------
+
+## Internal vs External Validity
+
+-   **Internal validity**
+    -   Are the results trustworthy *for the participants/population studied*?\
+    -   Threatened by bias, confounding, poor measurement
+
+::: callout-important
+## Most tools only assess internal validity
+:::
+
+-   **External validity**
+    -   Can we generalise results *to other populations or settings*?\
+    -   Depends on context, population, and intervention
+
+## Critical Appraisal vs Risk of Bias
+
+::::: columns
+::: column
+### 🔹 RoB
+
+-   Looks only at **systematic errors** in study design, conduct, or reporting\
+-   Mainly about **internal validity**\
+-   Tools: **ROBINS-I, RoB 2, Cochrane RoB**\
+    👉 *“How much bias is in this study?”*
+:::
+
+::: column
+### 🔹 CA
+
+-   Includes:
+    -   Risk of bias (internal validity)\
+    -   **Applicability / external validity**\
+-   Purpose: **trustworthiness + usefulness**\
+    👉 *“How useful is this study for my review/decision?”*
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## 
+
+-   **Risk of Bias** = one part of **Critical Appraisal**\
+-   Critical appraisal takes a **bigger picture view**
+
+## Assessing Risk of bias
+
+::: {style="height:350px; overflow-y:scroll; font-size:85%;"}
+| **Domain** | **Simple Question** |
+|--------------------------|----------------------------------------------|
+| **Selection / Confounding** | Were the groups comparable at the start, or could other factors explain the results? |
+| **Intervention delivery / Deviations** | Did participants actually get the intended treatment, and were both groups treated equally? |
+| **Missing data** | Was a lot of data lost (dropouts, incomplete follow-up) and could that skew the results? |
+| **Outcome measurement** | Were outcomes measured fairly and consistently, without knowing which group people were in? |
+| **Selective reporting** | Did the authors report all outcomes, or only the good-looking ones? |
+:::
+
+## All tools assess the same basic things
+
+1.  **Were groups fair to start with?**\
+2.  **Was treatment applied fairly?**\
+3.  **Was data complete and measured fairly?**\
+4.  **Were results reported honestly?**
+
+## Introducing ROBINS-I
+
+**Risk Of Bias In Non-randomised Studies – of Interventions**
+
+-   Designed for **observational / non-randomised studies**\
+-   Compares them to an *ideal study*\
+-   Focuses on **7 domains** of bias
+
+## ROBINS-I: 7 Domains
+
+1.  **Confounding** – Could other factors explain results?\
+2.  **Selection of participants** – Were subjects chosen fairly?\
+3.  **Classification of intervention** – Is it clear who got which treatment?\
+4.  **Deviations from intended intervention** – Did people stick to the plan?\
+5.  **Missing data** – Was information lost in a biased way?\
+6.  **Measurement of outcomes** – Were outcomes measured fairly?\
+7.  **Selection of reported results** – Did authors cherry-pick?
+
+## Judging Bias
+
+-   Each domain: **Low, Moderate, Serious, Critical** risk of bias\
+-   Overall judgement usually follows the *worst domain*\
+    -   It is tempting to sum domains - but this can lead to bias!\
+-   Helps reviewers decide:
+    -   How much confidence to place in results\
+
+    -   How to weight studies in a synthesis
+
+## Exercise: Spot the Bias!
+
+**Scenario:**\
+A study looks at whether people who join a voluntary exercise class lose more weight than those who don’t.
+
+**Questions:**\
+1. Could **confounding** be an issue here?\
+2. How were **participants selected**?\
+3. How would you rate **risk of bias** in this study overall?
+
+## Discussion
+
+-   Confounding: People who choose exercise classes may already be more health-conscious\
+-   Selection: Not random – volunteers may differ from non-volunteers\
+-   Likely risk of bias: **Serious**\
+-   Key lesson: Observational studies need careful appraisal before we trust their results
+
+## Exercise 2: School Feeding Program
+
+**Scenario:**\
+- Intervention: Schools receive meals sourced from local farmers.\
+- Control: Schools with basic feeding program or no program.\
+- Outcome: Nutrition (BMI, stunting rates) after 1 year.\
+- Study type: Non-randomised, quasi-experimental (schools selected based on funding availability).
+
+## Identify Potential Bias
+
+::: {style="height:350px; overflow-y:scroll; font-size:85%;"}
+| Domain | Potential Bias / Question |
+|--------------------|----------------------------------------------------|
+| **Confounding** | Could other factors (wealthier districts, more motivated staff) explain better nutrition? |
+| **Selection of participants** | Were only schools that applied included? Were they systematically different? |
+| **Classification of intervention** | Did all schools get the full program as intended? |
+| **Deviations from intended intervention** | Did students skip meals or share them at home? Could this affect outcomes? |
+| **Missing data** | Were students lost to follow-up? Could missing data skew results? |
+| **Measurement of outcomes** | Were nutrition outcomes measured consistently and fairly? |
+| **Selection of reported results** | Were only favorable outcomes reported (e.g., BMI) while others were omitted (stunting)? |
+:::
+
+## Critical appraisal steps
+
+[Critical appraisal]{style="color: darkblue"}
+
+[*Risk of bias*]{style="color: darkgreen"}
+
+1.  [For each domain, **judge risk of bias**: Low, Moderate, Serious, Critical.\
+    ]{style="color: darkgreen"}
+
+2.  [Discuss which domains are most concerning and why.\
+    ]{style="color: darkgreen"}
+
+3.  [Consider **external validity** – would results apply in other countries, urban schools, or different age groups?]{style="color: darkblue"}
+
+## Key Takeaways
+
+-   Critical appraisal = checking **how much we can trust a study**\
+
+-   ROBINS-I = tool for **non-randomised studies**\
