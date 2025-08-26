@@ -35,7 +35,7 @@ editor: visual
     -   Are the results trustworthy *for the participants/population studied*?\
     -   Threatened by bias, confounding, poor measurement
 
-::: callout-important
+::: {.callout-important appearance="simple"}
 ## Most tools only assess internal validity
 :::
 
@@ -149,7 +149,7 @@ A study looks at whether people who join a voluntary exercise class lose more we
 
 ::: {style="height:350px; overflow-y:scroll; font-size:85%;"}
 | Domain | Potential Bias / Question |
-|--------------------|----------------------------------------------------|
+|---------------------|---------------------------------------------------|
 | **Confounding** | Could other factors (wealthier districts, more motivated staff) explain better nutrition? |
 | **Selection of participants** | Were only schools that applied included? Were they systematically different? |
 | **Classification of intervention** | Did all schools get the full program as intended? |
